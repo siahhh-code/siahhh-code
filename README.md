@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student @ Pamantasan ng Lungsod ng Maynila
 -----------------------------------------------------------
 
-* 🌍  I'm based in 2nd-year Computer Science student passionate about Cybersecurity and Machine Learning. Building a strong foundation in C, C++, C#, Java, and Python, with hands-on experience in SQL, Linux, Git, and VSCode. Always curious about how systems can be broken — and how they can be protected.
+* 🌍  2nd-year Computer Science student with a strong passion for Cybersecurity and Machine Learning. Still early in my journey toward these fields, but building a solid foundation with C, C++, C#, Java, Python, SQL, Linux, Git, and VSCode.
 * 🖥️  See my portfolio at [SIAHHH's CODE](http://github.com/siahhh-code)
 * ✉️  You can contact me at [jcaronrobles@gmail.com](mailto:jcaronrobles@gmail.com)
 * 🧠  I'm currently learning Cyber Security and Machine Learning
